@@ -1,6 +1,8 @@
 <?php
 
 namespace App\Http\Controllers;
+use Predis;
+
 
 class ExampleController extends Controller
 {
@@ -12,6 +14,9 @@ class ExampleController extends Controller
     public function __construct()
     {
         //
+        $redis = new Predis\Client(getenv("REDIS_URL_manhua"));
+        $redis->ping();
+        echo  1111111;
     }
 
     //

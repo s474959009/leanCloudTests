@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'a754ba5a6b110639cbcacb10a20827afd54df164',
+    'reference' => 'e7cf6bfec8a925b25b52147e21b68049ef1a2f09',
     'name' => 'laravel/lumen',
   ),
   'versions' => 
@@ -380,7 +380,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'a754ba5a6b110639cbcacb10a20827afd54df164',
+      'reference' => 'e7cf6bfec8a925b25b52147e21b68049ef1a2f09',
     ),
     'laravel/lumen-framework' => 
     array (
@@ -581,6 +581,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'c73c6737305e779771147af66c96ca6a7ed8a741',
+    ),
+    'predis/predis' => 
+    array (
+      'pretty_version' => 'v1.1.7',
+      'version' => '1.1.7.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b240daa106d4e02f0c5b7079b41e31ddf66fddf8',
     ),
     'psr/container' => 
     array (
