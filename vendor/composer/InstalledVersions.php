@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '5fe1d84086ddf064c62c4951b43ffb94db8eae79',
+    'reference' => 'a754ba5a6b110639cbcacb10a20827afd54df164',
     'name' => 'laravel/lumen',
   ),
   'versions' => 
@@ -380,7 +380,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '5fe1d84086ddf064c62c4951b43ffb94db8eae79',
+      'reference' => 'a754ba5a6b110639cbcacb10a20827afd54df164',
     ),
     'laravel/lumen-framework' => 
     array (
